@@ -1,8 +1,9 @@
-const RESUME_FILE_ID = "1Iopr-MZdNGWdHOlpAhOkyixZKGsC7EXn"
+const RESUME_FILE_ID = "1j8mepHHO314fd2srlcKJ5jiJJPeXVR5X"
 
 export const RESUME_URL = `https://drive.google.com/file/d/${RESUME_FILE_ID}/preview?pli=1`
 export const RESUME_DOWNLOAD_URL = `https://drive.google.com/uc?export=download&id=${RESUME_FILE_ID}`
 
+// https://drive.google.com/file/d/1j8mepHHO314fd2srlcKJ5jiJJPeXVR5X/view?usp=drive_link
 export const personalLinks = {
   email: "uttamseerviii@gmail.com",
   github: "https://github.com/uttamseervi",
